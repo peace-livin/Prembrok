@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+body {
+  font-family: "Figtree", sans-serif;
+  font-family: sans-serif;
+  background-color: rgb(229, 177, 241);
+}
+@media screen and (min-width: 768) {
+  .carousel-item {
+    width: 50%;
+  }
+}
